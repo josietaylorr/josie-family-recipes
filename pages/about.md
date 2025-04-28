@@ -13,7 +13,7 @@ credits: true
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
 ## About the Collection
-This is a collection of favorite recipes from Josie's family. Everyone who chose to participate sent Josie recipes that they enjoy making. There are meals, sides, and desserts. I hope this can work as a small version of family cookbook. 
+This is a collection of favorite recipes from Josie's family. Everyone who chose to participate sent Josie recipes that they enjoy making. There are meals, sides, and desserts. I hope this can work as a small version of a family cookbook. 
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
